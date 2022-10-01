@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    border:2px solid;
+   }
+  
+   .container-fluid{
+    margin-bottom: 20px;
+    padding:5px;
+    background-color:skyblue;
+   }
+    .row{
+        margin-bottom: 10px;
+    }
+    .experience{
+        margin-bottom: 10px;
+    }
+    
+    td,tr {
+    text-align: center;
+    padding: 16px;
+    }
+    .table{
+        border-top-style: none;
+        margin-bottom: 10px;
+    }
+    .left{
+    text-align: left;
+    }
+    
+    textarea{
+        margin-bottom: 20px;
+    }
+     .name {
+    margin-bottom: 20px;
+    padding:5px;
+    background-color:skyblue;
+    }
+    .btn {
+    margin-bottom: 20px;
+    padding:5px;
+   
+    }
+    
+  
